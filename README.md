@@ -24,7 +24,7 @@ if caminho_para_tesouro:
 else:
     print("Não foi possível encontrar um caminho para o tesouro.")
 
-    
+
 ## Licença
 Este código é distribuído sob licença MIT. Consulte o arquivo LICENSE para obter detalhes.
 
