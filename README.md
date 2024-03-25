@@ -1,5 +1,4 @@
-CAXEIRO VIAJANTE
-
+#CaixeiroViajante
 
 Problema do Caixeiro Viajante
 Este é um exemplo simples de resolução do problema do caixeiro viajante usando força bruta. O problema do caixeiro viajante envolve encontrar o caminho mais curto que visita todas as cidades exatamente uma vez e retorna à cidade de origem.
