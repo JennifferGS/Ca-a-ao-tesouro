@@ -15,14 +15,15 @@ O método retornará o caminho encontrado para a Ilha do Tesouro, se existir.
 Pitão
 
 # Exemplo de uso
+ ```python
 aut = Automato()
-# Inicia a busca pelo caminho para o tesouro a partir do estado inicial (Piratas).
-
+#Inicia a busca pelo caminho para o tesouro a partir do estado inicial (Piratas).
 caminho_para_tesouro = aut.encontrar_caminho_para_tesouro("Piratas")
 if caminho_para_tesouro:
     print("Caminho para o tesouro:", caminho_para_tesouro)
 else:
     print("Não foi possível encontrar um caminho para o tesouro.")
+
     
 ## Licença
 Este código é distribuído sob licença MIT. Consulte o arquivo LICENSE para obter detalhes.
