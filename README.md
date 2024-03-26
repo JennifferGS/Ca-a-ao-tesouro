@@ -1,4 +1,4 @@
-## Projeto de Linguagens Formais e Autômatos: Caça ao Tesouro Pirata
+# Projeto de Linguagens Formais e Autômatos: Caça ao Tesouro Pirata
 
 Este projeto foi desenvolvido por estudantes do curso de Ciência da Computação na disciplina de Linguagens Formais e Autômatos, ministrado pela professora Kadidja Valeria. Os alunos responsáveis ​​pela criação são Jenniffer Glenda, Deborah Lohanne e Lucas Gonçalves.
 
