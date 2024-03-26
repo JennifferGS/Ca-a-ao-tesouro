@@ -1,7 +1,4 @@
 
-- [x] Tarefa concluída
-- [ ] Tarefa a ser feita
-- [ ] Outra tarefa pendente
 
 # Projeto de Linguagens Formais e Autômatos: Caça ao Tesouro Pirata
 
