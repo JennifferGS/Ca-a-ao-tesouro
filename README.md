@@ -4,12 +4,10 @@
 
 Este projeto foi desenvolvido por estudantes do curso de Ciência da Computação na disciplina de Linguagens Formais e Autômatos, ministrado pela professora Kadidja Valeria.
 
-<b>Alunos responsáveis:<b/> 
+Alunos responsáveis: 
 - Jenniffer Glenda
 - Deborah Lohanne 
 - Lucas Gonçalves
-<b>
-<b/> 
 
 ## Descrição
 Este repositório contém um exemplo de implementação do problema do caixeiro viajante, relacionando-o com a busca por tesouros em um mapa fictício. O objetivo é encontrar o caminho mais curto que visite cada local uma vez, simbolizando a jornada de um pirata em busca de tesouros escondidos.
@@ -36,3 +34,4 @@ Você pode personalizar o código para o seu próprio problema ajustando os grá
 Lembre-se de que este é um algoritmo de força bruta e pode não ser eficiente para um grande número de localizações. Para conjuntos de dados maiores, seria aconselhável explorar algoritmos mais eficientes, como o algoritmo genético ou o algoritmo de vizinho mais próximo.
 
 Este é um exemplo simples e educacional do problema do caixeiro viajante e pode ser expandido e otimizado conforme necessário para atender às suas próprias necessidades.
+
