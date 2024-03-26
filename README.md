@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido por estudantes do curso de Ciência da Computação na disciplina de Linguagens Formais e Autômatos, ministrado pela professora Kadidja Valeria. Os alunos responsáveis ​​pela criação são Jenniffer Glenda, Deborah Lohanne e Lucas Gonçalves.
 
-# Problema do Caixeiro Viajante e a Busca pelo Tesouro
+## Problema do Caixeiro Viajante e a Busca pelo Tesouro
 
 ## Descrição
 Este repositório contém um exemplo de implementação do problema do caixeiro viajante, relacionando-o com a busca por tesouros em um mapa fictício. O objetivo é encontrar o caminho mais curto que visite cada local uma vez, simbolizando a jornada de um pirata em busca de tesouros escondidos.
