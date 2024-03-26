@@ -8,7 +8,8 @@ Este projeto foi desenvolvido por estudantes do curso de Ciência da Computaçã
 - Jenniffer Glenda
 - Deborah Lohanne 
 - Lucas Gonçalves
-
+<b>
+<b/> 
 
 ## Descrição
 Este repositório contém um exemplo de implementação do problema do caixeiro viajante, relacionando-o com a busca por tesouros em um mapa fictício. O objetivo é encontrar o caminho mais curto que visite cada local uma vez, simbolizando a jornada de um pirata em busca de tesouros escondidos.
