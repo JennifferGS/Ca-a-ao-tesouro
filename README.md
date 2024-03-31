@@ -24,6 +24,8 @@ A função `calcula_distancia` recebe um caminho (uma lista de vértices) e o gr
 ### Função Recursiva para Encontrar o Melhor Caminho
 A função `encontrar_melhor_caminho` utiliza uma abordagem de força bruta para percorrer todas as permutações possíveis dos vértices e encontrar o caminho que minimize a distância total.
 
+A função encontrar_melhor_caminho é recursiva. Ela possui uma chamada a si mesma (encontrar_melhor_caminho) dentro do seu próprio corpo (encontrar_melhor_caminho(grafo, vertices, novo_caminho)), que é uma característica fundamental de uma função recursiva. Além disso, tem uma condição de base, verificada para determinar se a recursão deve parar: len(caminho_atual) == len(vertices), o que significa que todos os vértices foram visitados. A função também faz chamadas recursivas com uma mudança progressiva no argumento caminho_atual, movendo-se de uma etapa da solução para a próxima. Cada chamada recursiva está se aproximando da condição de base.
+
 ### Exemplo de Uso
 Um exemplo de uso é fornecido no código, onde o grafo representa as distâncias entre as localizações no mapa. O algoritmo é executado e o melhor caminho encontrado, juntamente com a menor distância, é impresso na saída.
 
